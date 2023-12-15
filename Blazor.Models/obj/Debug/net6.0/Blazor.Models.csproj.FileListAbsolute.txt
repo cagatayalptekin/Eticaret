@@ -1,0 +1,11 @@
+C:\Users\r.askeroglu\source\repos\Blazor.Models\bin\Debug\net6.0\Blazor.Models.deps.json
+C:\Users\r.askeroglu\source\repos\Blazor.Models\bin\Debug\net6.0\Blazor.Models.dll
+C:\Users\r.askeroglu\source\repos\Blazor.Models\bin\Debug\net6.0\Blazor.Models.pdb
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\Blazor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\Blazor.Models.AssemblyInfoInputs.cache
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\Blazor.Models.AssemblyInfo.cs
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\Blazor.Models.csproj.CoreCompileInputs.cache
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\Blazor.Models.dll
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\refint\Blazor.Models.dll
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\Blazor.Models.pdb
+C:\Users\r.askeroglu\source\repos\Blazor.Models\obj\Debug\net6.0\ref\Blazor.Models.dll

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorETicaret", "BlazorETicaret.csproj", "{B9D35E9F-FA02-4110-B8CF-D5BC9610E58E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Common", "..\Blazor.Common\Blazor.Common.csproj", "{DE226282-1A9A-4562-A298-433E446E6716}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Business", "..\Blazor.Business\Blazor.Business.csproj", "{BDF4EF7A-E77A-4BB3-BDCC-CEAE0B216643}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Models", "..\Blazor.Models\Blazor.Models.csproj", "{EEA50B6C-38C6-4253-ADF1-764FEB8B59D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.DataAccess", "..\Blazor.DataAccess\Blazor.DataAccess.csproj", "{4696304D-4F08-4020-95C3-02906790C935}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Api", "..\Blazor.Api\Blazor.Api.csproj", "{D0517F38-651B-48BD-8920-A98BBE79DE90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorEticaret.Client", "..\BlazorEticaret.Client\BlazorEticaret.Client.csproj", "{34A4866D-BDD9-4272-8894-F1994487D395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D35E9F-FA02-4110-B8CF-D5BC9610E58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D35E9F-FA02-4110-B8CF-D5BC9610E58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D35E9F-FA02-4110-B8CF-D5BC9610E58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D35E9F-FA02-4110-B8CF-D5BC9610E58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE226282-1A9A-4562-A298-433E446E6716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE226282-1A9A-4562-A298-433E446E6716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE226282-1A9A-4562-A298-433E446E6716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE226282-1A9A-4562-A298-433E446E6716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF4EF7A-E77A-4BB3-BDCC-CEAE0B216643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF4EF7A-E77A-4BB3-BDCC-CEAE0B216643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF4EF7A-E77A-4BB3-BDCC-CEAE0B216643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF4EF7A-E77A-4BB3-BDCC-CEAE0B216643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA50B6C-38C6-4253-ADF1-764FEB8B59D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA50B6C-38C6-4253-ADF1-764FEB8B59D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA50B6C-38C6-4253-ADF1-764FEB8B59D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA50B6C-38C6-4253-ADF1-764FEB8B59D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4696304D-4F08-4020-95C3-02906790C935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4696304D-4F08-4020-95C3-02906790C935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4696304D-4F08-4020-95C3-02906790C935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4696304D-4F08-4020-95C3-02906790C935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0517F38-651B-48BD-8920-A98BBE79DE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0517F38-651B-48BD-8920-A98BBE79DE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0517F38-651B-48BD-8920-A98BBE79DE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0517F38-651B-48BD-8920-A98BBE79DE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A4866D-BDD9-4272-8894-F1994487D395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A4866D-BDD9-4272-8894-F1994487D395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A4866D-BDD9-4272-8894-F1994487D395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A4866D-BDD9-4272-8894-F1994487D395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862B01B3-55CE-442A-9226-7C3531AAC611}
+	EndGlobalSection
+EndGlobal

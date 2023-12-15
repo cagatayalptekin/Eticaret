@@ -1,0 +1,12 @@
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\bin\Debug\net6.0\Blazor.DataAccess.deps.json
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\bin\Debug\net6.0\Blazor.DataAccess.dll
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\bin\Debug\net6.0\Blazor.DataAccess.pdb
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\Blazor.DataAccess.csproj.AssemblyReference.cache
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\Blazor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\Blazor.DataAccess.AssemblyInfoInputs.cache
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\Blazor.DataAccess.AssemblyInfo.cs
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\Blazor.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\Blazor.DataAccess.dll
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\refint\Blazor.DataAccess.dll
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\Blazor.DataAccess.pdb
+C:\Users\r.askeroglu\source\repos\Blazor.DataAccess\obj\Debug\net6.0\ref\Blazor.DataAccess.dll
